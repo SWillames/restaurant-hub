@@ -1,0 +1,21 @@
+# Ruby
+.bundle
+vendor/bundle
+log/*
+tmp/*
+*.log
+
+# Rails
+storage/*
+public/assets
+public/packs
+
+# Environment
+.env
+.env.*
+
+# Docker
+docker-compose.override.yml
+
+# OS
+.DS_Store
