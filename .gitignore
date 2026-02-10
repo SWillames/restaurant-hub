@@ -19,3 +19,9 @@ docker-compose.override.yml
 
 # OS
 .DS_Store
+
+# Idea
+.idea
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
